@@ -1,1 +1,2 @@
-# .github
+# Collative
+Welcome to the club, reader. At Collative, we are trying to make high end inerconnected electronic systems, open, available and repairable for all. As a collective (the name...), we are trying to create cheaper and more consumer friendly electronics hardware; we are trying to deverge from the norm of unrepairable unfixable devices, tied to horrible corporations solely driven on profits. That changes here.
